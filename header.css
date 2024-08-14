@@ -16,7 +16,7 @@
 
 .container {
     display: flex;
-    align-items: center;
+    align-items:center
 }
 
 .container__imagem {
